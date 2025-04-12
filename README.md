@@ -22,7 +22,7 @@ Las específicaciones del sistema con las que se hicieron pruebas fueron las sig
    ```bash
    ./OrdenLexicografico
 
-   # 3. Proporcionar los valores de entrada n y r según se soliciten
+3. Proporcionar los valores de entrada n y r según se soliciten
 
 ## Explicación del Algoritmo
 El algoritmo utiliza un enfoque iterativo para generar las r-combinaciones de un conjunto de tamaño n. Se asegura que las combinaciones sean generadas una a una sin redundancias, utilizando estructuras de datos y operaciones eficientes.
